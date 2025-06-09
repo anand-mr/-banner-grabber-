@@ -1,0 +1,27 @@
+
+### 📌 What to do:
+Create a file named `README.md` → paste the above example → customize it for your tool.
+
+---
+
+## 📜 `LICENSE`
+
+### What it is:
+A **legal file** that tells people what they can and can't do with your code.
+
+### Common choices:
+- **MIT License** – most popular, lets anyone use, copy, or modify your code.
+- **GPL** – free to use, but users must also open-source any changes.
+- **Apache 2.0** – good for businesses, allows patent rights.
+
+### Example (MIT):
+Create a file named `LICENSE`, and paste this:
+```text
+MIT License
+
+Copyright (c) 2025 Anand Anandhu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
+
